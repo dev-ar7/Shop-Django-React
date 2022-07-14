@@ -1,0 +1,13 @@
+.product-container {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.product-container h2 {
+    color: #2c3255;
+}
+
+.product-container .row {
+    margin-top: 15px;
+    justify-content: space-evenly;
+}

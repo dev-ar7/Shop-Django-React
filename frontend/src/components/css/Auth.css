@@ -1,0 +1,16 @@
+.card {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05);
+    transition: all 0.3s ease-in-out;
+}
+
+.auth {
+    margin: 25px;
+    padding: 25px;
+}
+
+.auth h2 {
+    color: #0b5ed7;
+}

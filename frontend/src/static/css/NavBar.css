@@ -1,0 +1,18 @@
+.container {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.navbar-dark .navbar-brand {
+    color: #45b7ee;
+    font-size: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fa-cart-plus {
+    font-size: 1.3rem;
+}
+
+.fa-circle-down {
+    font-size: 1.3rem;
+}
